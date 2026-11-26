@@ -1,10 +1,6 @@
 # Offline AI Assistant
 
-🚀 **Live Demo:** [Click here to try the application](https://offline-ai-assistant-9w5kjgtjkxpm63gasceynu.streamlit.app/)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/PoojaBisht1234/offline-ai-assistant)
-
-
+🚀 Live demo: https://offline-ai-assistant-9w5kjgtjkxpm63gasceynu.streamlit.app/
 
 # AI Assistant with Model Benchmarking (Cloud Edition)
 
