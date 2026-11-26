@@ -1,3 +1,10 @@
+# Offline AI Assistant
+
+🚀 **Live Demo:** [Click here to try the application](https://offline-ai-assistant-9w5kjgtjkxpm63gasceynu.streamlit.app/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/PoojaBisht1234/offline-ai-assistant)
+
+
 # AI Assistant with Model Benchmarking (Cloud Edition)
 
 A public Streamlit demo adapted from an offline Ollama project. This cloud edition uses Groq-hosted language models so it can run on Streamlit Community Cloud.
